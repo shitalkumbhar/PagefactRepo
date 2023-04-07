@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-06T15:06:08 PDT" name="Default suite" finished-at="2023-04-06T15:06:12 PDT" duration-ms="4000">
+    <groups>
+    </groups>
+    <test started-at="2023-04-06T15:06:08 PDT" name="Default test" finished-at="2023-04-06T15:06:12 PDT" duration-ms="4000">
+      <class name="tasksTests.Task_Verification">
+        <test-method is-config="true" signature="loginToApp()[pri:0, instance:tasksTests.Task_Verification@a9cd3b1]" started-at="2023-04-06T15:06:02 PDT" name="loginToApp" finished-at="2023-04-06T15:06:08 PDT" duration-ms="5995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method signature="CreateTasks()[pri:0, instance:tasksTests.Task_Verification@a9cd3b1]" started-at="2023-04-06T15:06:08 PDT" name="CreateTasks" finished-at="2023-04-06T15:06:12 PDT" duration-ms="3979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateTasks -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:tasksTests.Task_Verification@a9cd3b1]" started-at="2023-04-06T15:06:12 PDT" name="logOut" finished-at="2023-04-06T15:06:13 PDT" duration-ms="835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+      </class> <!-- tasksTests.Task_Verification -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
